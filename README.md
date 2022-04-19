@@ -1,13 +1,12 @@
-# Korge Hello World and Template
+# Korge Top Down Shooter / Roguelike Game Template
 
-This is a Hello World and Template for the KorGe game engine. Using gradle with kotlin-dsl.
-You can open this project in IntelliJ IDEA by opening the folder or the build.gradle.kts file.
+This demonstrates the basics of how to build a game using Kotlin and the KorGE game engine.
 
-You can find this template at GitHub: <https://github.com/korlibs/korge-hello-world>
+I hope others will use this code to learn to code or build fun games.
 
-For Windows, change all the `./gradlew` for `gradlew.bat`.
+See the gameplay video below:
 
-You should use Gradle 5.5 or greater and Java 8 or greater.
+https://user-images.githubusercontent.com/16091920/164990668-4c852b96-1190-44d3-92e4-512de3b53db7.mov
 
 ## Compiling for the JVM (Desktop)
 
